@@ -1,12 +1,12 @@
-#Intro to Silex
+#Rectangle App
 
-#####Basic Silex Applications
+#####Rectangles via Silex
 
 ####By Tim White, Ian McKenney, Will Swanson
 
 ##Description
 
-Stuff and things
+Using Silex to create rectangle calculation webapp.
 
 ##Setup
 
